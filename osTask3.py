@@ -81,5 +81,5 @@ else :
 #The result, indicating the presence or absence of deadlocks, along with details such as the deadlocked processes or the safe sequence, is printed accordingly. 
 #If the dimensions are inconsistent, an error message is displayed, and the program exits.    
 
-#the system in in the deadlock state 
+#the system is in the deadlock state 
 #example to make the system be in the safe state : Available : 2 0 5 5 6
